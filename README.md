@@ -94,7 +94,7 @@ A personal website designed to showcase my projects, technical skills, and profe
 <table>
 <tr>
 <td align="center"><img src="https://cdn.simpleicons.org/html5/E34F26" width="32" alt="HTML5"/></td>
-<td align="center"><img src="https://cdn.simpleicons.org/css3/1572B6" width="32" alt="CSS3"/></td>
+<td align="center"><<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" alt="CSS3"/>/td>
 <td align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="32" alt="React"/></td>
 <td align="center"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="32" alt="Next.js"/></td>
 </tr>
@@ -117,7 +117,7 @@ A personal website designed to showcase my projects, technical skills, and profe
 <td align="center"><img src="https://cdn.simpleicons.org/express/FFFFFF" width="32" alt="Express.js"/></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/java/ED8B00" width="32" alt="Java"/></td>
+<td align="center"><<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32" alt="Java"/></td>
 <td align="center"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="32" alt="C++"/></td>
 <td align="center"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="32" alt="PostgreSQL"/></td>
 <td align="center"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="32" alt="MySQL"/></td>
@@ -138,11 +138,11 @@ A personal website designed to showcase my projects, technical skills, and profe
 <td align="center"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="32" alt="Figma"/></td>
 <td align="center"><img src="https://cdn.simpleicons.org/git/F05032" width="32" alt="Git"/></td>
 <td align="center"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" alt="GitHub"/></td>
-<td align="center"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="32" alt="VS Code"/></td>
+<td align="center"><<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="32" alt="VS Code"/></td>
 </tr>
 <tr>
 <td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" width="32" alt="Docker"/></td>
-<td align="center"><img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="32" alt="AWS"/></td>
+<td align="center"><<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="32" alt="AWS"/></td>
 <td align="center"><img src="https://cdn.simpleicons.org/linux/FCC624" width="32" alt="Linux"/></td>
 <td align="center"><img src="https://cdn.simpleicons.org/terraform/844FBA" width="32" alt="Terraform"/></td>
 </tr>
