@@ -9,7 +9,7 @@ Building secure systems, scalable software, and meaningful digital experiences.
 
 [![GitHub](https://img.shields.io/badge/GitHub-MSK0199-181717?style=for-the-badge&logo=github)](https://github.com/MSK0199)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shashwat-kumar-341820227/)
 
 </div>
 
