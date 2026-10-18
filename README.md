@@ -74,57 +74,83 @@ A personal website designed to showcase my projects, technical skills, and profe
 
 ---
 
+
 ## 🧰 Tech Stack
 
-### Programming Languages
+<table>
+<tr>
+<th width="33%">✦ Frontend</th>
+<th width="33%">✦ Backend</th>
+<th width="33%">✦ Tools & Cloud</th>
+</tr>
+<tr>
+<td align="center">Pixel-perfect interfaces.<br/>Fluid, responsive experiences. ✨</td>
+<td align="center">Reliable APIs.<br/>Secure, scalable systems. ⚙️</td>
+<td align="center">Ideas into reality.<br/>Built with the right tools. ⚡</td>
+</tr>
+<tr>
+<td align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/html5/E34F26" width="32" alt="HTML5"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/css3/1572B6" width="32" alt="CSS3"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="32" alt="React"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="32" alt="Next.js"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="32" alt="Tailwind CSS"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/flutter/02569B" width="32" alt="Flutter"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="32" alt="TypeScript"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="32" alt="JavaScript"/></td>
+</tr>
+</table>
 
-### Frontend & Mobile
+</td>
+<td align="center">
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/python/3776AB" width="32" alt="Python"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/flask/FFFFFF" width="32" alt="Flask"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="32" alt="Node.js"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/express/FFFFFF" width="32" alt="Express.js"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/java/ED8B00" width="32" alt="Java"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="32" alt="C++"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="32" alt="PostgreSQL"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="32" alt="MySQL"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="32" alt="MongoDB"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/redis/DC382D" width="32" alt="Redis"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="32" alt="REST API tooling"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="32" alt="SQL tooling"/></td>
+</tr>
+</table>
 
-### Backend & APIs
+</td>
+<td align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-<img src="https://img.shields.io/badge/REST_APIs-16A34A?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="32" alt="Figma"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/git/F05032" width="32" alt="Git"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" alt="GitHub"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="32" alt="VS Code"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" width="32" alt="Docker"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="32" alt="AWS"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/linux/FCC624" width="32" alt="Linux"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/terraform/844FBA" width="32" alt="Terraform"/></td>
+</tr>
+</table>
 
-### Databases
-
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</p>
-
-### Tools & Cloud
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
